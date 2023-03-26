@@ -1,1 +1,0 @@
-Demo storage on Ghost
